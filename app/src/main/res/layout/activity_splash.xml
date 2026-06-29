@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="35dp"
+    android:background="#061224">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginBottom="35dp"/>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ShieldDroid AI"
+        android:textStyle="bold"
+        android:textSize="36sp"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AI-Powered Android Malware Detection Engine"
+        android:textSize="16sp"
+        android:textColor="#B8D7FF"
+        android:gravity="center"
+        android:layout_marginTop="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="• • •"
+        android:textSize="30sp"
+        android:textColor="#4CAF50"
+        android:layout_marginTop="45dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developed By"
+        android:textSize="15sp"
+        android:textColor="#D6D6D6"
+        android:layout_marginTop="70dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Devendrasing Rajput"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:textColor="#4CAF50"
+        android:layout_marginTop="8dp"/>
+
+</LinearLayout>
