@@ -4,6 +4,8 @@
 
 ShieldDroid-AI is an Android security application that analyzes installed applications using permission analysis, behavior-based detection rules, and AI-inspired risk scoring to identify potentially malicious apps before they can harm the device.
 
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5b1c9328-02e1-4ff8-ab58-b138c30ab9b7" />
+
 ---
 
 ## 📱 Features
